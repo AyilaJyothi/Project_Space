@@ -49,7 +49,7 @@ const Sidebar = () => {
       sx={{
         display: "flex",
         height: "100vh",
-        width: "100%",
+        width: "100px",
         backgroundColor: theme.palette.background.default,
       }}
     >
