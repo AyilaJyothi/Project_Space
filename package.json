@@ -13,6 +13,8 @@
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
+    "axios": "^1.10.0",
+    "dayjs": "^1.11.13",
     "emoji-mart": "^5.2.2",
     "framer-motion": "^7.5.3",
     "phosphor-react": "^1.4.1",
@@ -27,6 +29,7 @@
     "redux": "^5.0.1",
     "redux-persist": "^6.0.0",
     "simplebar-react": "^2.4.3",
+    "socket.io-client": "^4.8.1",
     "stylis-plugin-rtl": "^2.0.2",
     "web-vitals": "^2.1.4"
   },
